@@ -1,7 +1,6 @@
  <h1> Hi!!, I'm Zakaria </h1>
 <ul>
-<li></li>
-<li></li>
+<li>Web developer and very motivated and passionate about everything related to the digital field💻</li>
 </ul>
 
 
