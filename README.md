@@ -1,6 +1,6 @@
  <h1> Hi there!!👋, I'm Zakaria </h1>
 <ul>
-<li>Junior Web Developer || SOC Analyst and very motivated and passionate about everything related to the digital field💻</li>
+<li>Junior Web Developer👨🏽‍💻©️ || SOC Analyst🛡️🔐 and very motivated and passionate about everything related to the digital field💻</li>
 </ul>
 
 
