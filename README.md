@@ -29,13 +29,13 @@ My goal is to provide high-quality technical services that protect sensitive dat
 
 Here are some of the projects I've worked on:
 
-- [OFID Script Tool :](https://github.com/BARI-Zakaria/OFID_Task_Automation) **OFID (Order Files into Directories)** is a script tool designed to organize disorganized files in a folder based on their file extension 
+- [OFID Script Tool :](https://github.com/BARI-Zakaria/OFID_Task_Automation) **OFID (Order Files into Directories)** is a script tool designed to organize disorganized files in a folder based on their file extension.
 - [TodoList App :](https://bari-zakaria.github.io/TodoList-App/) TodoList that helps you organize tasks efficiently. Add, edit, delete tasks and keep track of your daily progress. 
 - [Weather API :](https://raw.githack.com/BARI-Zakaria/Weather-API-Project/main/index.html) Weather App is a web application that provides details about the weathers based on the searched city.  
 
 ## 📬 **Get in Touch**
 
-📧 You can reach me at [barizakaria.mp@gmail.com](mailto:barizakaria.mp@gmail.com). 
+📧 You can reach me at ![](https://img.shields.io/badge/barizakaria.mp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Let's collaborate on exciting projects and make the web a better place!
 
