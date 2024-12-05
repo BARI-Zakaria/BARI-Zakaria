@@ -1,6 +1,14 @@
  <h1> Hi there!!👋, I'm Zakaria </h1>
 <ul>
-<li>JR. Web Developer👨🏽‍💻©️ || SOC Analyst🛡️🔐 || Python Automatization⚙✅. Very motivated and passionate about the field of development and cyber security, so I always make sure to update my knowledge for all that concerns the digital field. My goal is to provide high-quality technical services that protect sensitive data, bolster an information system and ensure privacy.</li>
+<li>
+ JR. Web Developer👨🏽‍💻©️ || SOC Analyst🛡️🔐 || Python Automatization⚙✅.
+</li>
+ <li>
+   Very motivated and passionate about the field of development and cyber security, so I always make sure to update my knowledge for all that concerns the digital field.
+ </li>
+ <li>
+  My goal is to provide high-quality technical services that protect sensitive data, bolster an information system and ensure privacy.
+ </li>
 </ul>
 
 
