@@ -74,7 +74,8 @@ Check out my portfolio : [Portfolio](https://www.secdev-zakaria.com/)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BARI-Zakaria&show_icons=true?&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BARI-Zakaria)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=your_username&background=1a1a2e&ring=purple&fire=orange&currStreakLabel=white)
+
 
 
  
