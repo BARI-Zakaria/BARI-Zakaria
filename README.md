@@ -27,7 +27,7 @@ My goal is to provide high-quality technical services that protect sensitive dat
     <img src="https://readme-typing-svg.herokuapp.com?color=%2300C834&size=24&lines=Web+Development+Cybersecurity">
   </a> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=00C834&width=500&height=100&lines=Web+Development%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+%26+Cyber+Security%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=00C834&width=500&height=50&lines=Web+Development%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+%26+Cyber+Security%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 ## 🚀 **My Projects**
 
