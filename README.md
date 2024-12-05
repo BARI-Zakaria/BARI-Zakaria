@@ -22,38 +22,12 @@ My goal is to provide high-quality technical services that protect sensitive dat
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammed-bakkali&style=for-the-badge&color=blue)
 
 
-<div style="font-family: Montserrat, sans-serif; font-size: 26px; font-weight: large; color: #00C834; white-space: nowrap; overflow: hidden; border-right: 2px solid; animation: typing 8s steps(60, end) infinite, blink 0.75s step-end infinite;">
-  JR. Web Developer 👨🏽‍💻©️ || SOC Analyst 🛡️🔐 || Python Automatization ⚙✅
-</div><br>
+<!-- <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2300C834&size=24&lines=Web+Development+Cybersecurity">
+  </a> -->
 
-<style>
-  body {
-    font-family: "Montserrat", sans-serif;
-    font-weight: 600;
-  }
-  h1 {
-    text-align : center;
-    font-weight: bold;
-  }
-@keyframes typing {
-  from {
-    width: 0;
-  }
-  to {
-    width: 100%;
-  }
-}
-
-@keyframes blink {
-  from, to {
-    border-color: transparent;
-  }
-  50% {
-    border-color: #36BCF7;
-  }
-}
-</style>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=00C834&width=500&height=100&lines=Web+Development%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+%26+Cyber+Security%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 ## 🚀 **My Projects**
 
@@ -104,8 +78,7 @@ Check out my portfolio : [Portfolio](https://www.secdev-zakaria.com/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BARI-Zakaria&show_icons=true?&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BARI-Zakaria)](https://git.io/streak-stats)
-<!-- <h5>Technologies</h5> 
-<img src="![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)"> -->
+
 
  
 <!--
