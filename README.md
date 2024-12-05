@@ -67,7 +67,7 @@ Check out my portfolio : [Portfolio](https://www.secdev-zakaria.com/)
 
 ## 📜 **The Daily Quote**
 
-<p>"Responsibility is the price to be paid for success"</p>
+<p><b>"Responsibility is the price to be paid for success"</b></p>
 
 <p>- <i>Winston Churchill</i></p>
 
