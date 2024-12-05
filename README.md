@@ -16,6 +16,7 @@ My goal is to provide high-quality technical services that protect sensitive dat
 </ul>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-bari/)
+![Gmail Badge](https://img.shields.io/badge/barizakaria.mp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BARI-Zakaria)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-YourWebsiteColor?style=for-the-badge&logo=web&logoColor=white)](https://www.secdev-zakaria.com/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SecDev_Zakaria)
@@ -35,7 +36,7 @@ Here are some of the projects I've worked on:
 
 ## 📬 **Get in Touch**
 
-📧 You can reach me at ![](https://img.shields.io/badge/barizakaria.mp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+📧 You can reach me at [barizakaria.mp@gmail.com](mailto:barizakaria.mp@gmail.com). 
 
 Let's collaborate on exciting projects and make the web a better place!
 
